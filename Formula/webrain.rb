@@ -3,7 +3,7 @@ class Webrain < Formula
   homepage "https://github.com/prokopis3/webrain"
   url "https://github.com/prokopis3/webrain/releases/download/v0.10.0/webrain-macos",
       using: :nounzip
-  sha256 "1c156c19fb4f7401f039412abdbf95cb80966f91503e8d7fe2ca2c734054b293"
+  sha256 "b937f02182ac5e8cc3d3887e1aa1720e87489d982ac61a3bcd48c8413254d1d5"
   version "0.10.0"
   license "MIT"
 
