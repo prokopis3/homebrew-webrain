@@ -1,10 +1,10 @@
 class Webrain < Formula
   desc "Portable LLM-driven browser-automation & web-scraping MCP server"
   homepage "https://github.com/prokopis3/webrain"
-  url "https://github.com/prokopis3/webrain/releases/download/v0.11.0/webrain-macos",
+  url "https://github.com/prokopis3/webrain/releases/download/v0.12.1/webrain-macos",
       using: :nounzip
-  sha256 "09005789c70e76a1802778e90700d37893f001b4915307ace940fe009aa9510d"
-  version "0.11.0"
+  sha256 "cf5fbcb6b3aedc89d9c15b756ee25016dc8b5d28879c95567a764885dbd472f5"
+  version "0.12.1"
   license "MIT"
 
   def install
